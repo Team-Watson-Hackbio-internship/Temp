@@ -7,14 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1R70BYynqLJtr48NLscdnay5CCky3rTGN
 """
 
-Name = "Shahana Malik"
+'Name = "Shahana Malik"
 Email-address = "shanimalik@aup.edu.pk"
 Language = "Python"
 Biostack = "Genomics"
 Slack_username = "@shani"
 
-print("My name is Shahana Malik") 
-print("My email is shanimalik@aup.edu.pk")
-print("My language is python")
-print("My Biostack is Genomics ")
-print("My slack username is @shani")
+print("Shahana Malik","shanimalik@aup.edu.pk", "Python", "Genomics", "@shani" )
